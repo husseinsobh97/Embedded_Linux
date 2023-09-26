@@ -1,0 +1,8 @@
+Assignment 1:
+Create a class called Transition which has two methods of Transition 
+1) ManualTransition 
+2) AutomaticTransition 
+
+Use Transition class as a parent class for child classes to inherit from it and create Car and MotorCycle as child classes 
+and override the methods of manualTransition and automaticTransition 
+in main function use a pointer of Transition that can point to each of the child classes objects and display the transition method
